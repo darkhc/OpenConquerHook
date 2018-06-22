@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  CSV3Hook.cpp
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(32): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(32): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: vea la declaración de 'strcpy'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(58): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: vea la declaración de 'strcat'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(59): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: vea la declaración de 'strcat'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(134): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: vea la declaración de 'strcat'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(206): warning C4474: "sprintf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(206): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: vea la declaración de 'sprintf'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(225): warning C4474: "sprintf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(225): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(225): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: vea la declaración de 'sprintf'
+c:\users\crist\documents\github\openconquerhook\csv3hook.cpp(243): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: vea la declaración de 'strcat'
+  Hook.cpp
+  LegacyCipher.cpp
+  Scan.cpp
+  Generando código...
+  dllmain.cpp
+  CSV3Hook.vcxproj -> C:\Users\crist\Documents\GitHub\OpenConquerHook\Debug\OpenConquerHook.dll
